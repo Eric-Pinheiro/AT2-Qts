@@ -1,0 +1,5 @@
+# Context Rules
+- Utilize Python 3.12+ e tipagem estrita (type hints).
+- Padrão AAA (Arrange, Act, Assert) obrigatório em todos os testes.
+- Isolamento de testes: Chamadas de rede externas devem ser mockadas (pytest-mock).
+- Seletores E2E devem priorizar atributos semânticos (get_by_role, get_by_label).
