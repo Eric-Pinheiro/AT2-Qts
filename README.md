@@ -11,7 +11,7 @@ Projeto de avaliação para a disciplina de Qualidade e Teste de Software (QTS).
 
 # 1. Clone o repositório e acesse o diretório:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/Eric-Pinheiro/AT2-Qts.git
    ``` 
    ```
    cd qts-workstation-provisioning
